@@ -1,6 +1,6 @@
 # Hotel-Booking-DA-and-Cancellation-Prediction
 
-Welcome to the Hotel Booking Data Analysis and Cancellation Prediction project! In this comprehensive endeavor, we blend the art of data analysis with the precision of machine learning to unravel the intricacies of hotel bookings. Our dual focus on data exploration and predictive modeling aims to provide actionable insights into the dynamic landscape of the hospitality industry.
+Welcome to the Hotel Booking Data Analysis and Cancellation Prediction project! In this comprehensive endeavor, we blend the art of data analysis with the precision of machine learning to unravel the intricacies of hotel bookings. Our focus on data exploration and predictive modeling aims to provide actionable insights into the dynamic landscape of the hospitality industry.
 
 ## Project Overview
 
@@ -29,4 +29,4 @@ Our analysis is grounded in a rich dataset encompassing diverse attributes relat
 
 The amalgamation of data analysis and predictive modeling holds immense value for the hospitality industry. Beyond predicting cancellations, our project equips hotels with the knowledge to proactively manage reservations, optimize resource allocation, and elevate the overall guest experience. Join us on this exciting journey as we unravel the story within the hotel booking data.
 
-Let's embark on the dual exploration of Hotel Booking Data Analysis and Cancellation Prediction!
+Let's embark on the exploration of Hotel Booking Data Analysis and Cancellation Prediction!
